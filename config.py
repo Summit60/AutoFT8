@@ -17,8 +17,8 @@ DEFAULT_CONFIG = """
   bind_address: "127.0.0.1"
   wsjt_port: 2238
   monitor_port: 2240
-  call: "N0CALL"
-  location: "CM87vl"
+  call: "KE2GYH"
+  location: "FN23BX"
 """
 
 class Config:
